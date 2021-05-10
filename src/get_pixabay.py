@@ -5,6 +5,6 @@ response = requests.get("https://cdn.pixabay.com/photo/2020/02/13/21/21/lighthou
 print(response)
 
 print(response.headers.get("Content-Type"))
-file = open("assets\\pictures\\lighthouse.jpeg", "wb")
+file = open("assets/pictures/lighthouse2.jpeg", "wb")
 file.write(response.content)
 file.close()
