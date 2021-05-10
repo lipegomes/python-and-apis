@@ -2,7 +2,7 @@
 
 Api (request and response) studies using python for reading public data.
 
-![](https://github.com/lipegomes/python-and-apis/blob/main/public/images/main.png)
+![](https://github.com/lipegomes/python-and-apis/blob/main/assets/pictures/api_filipegomesdev.png)
 
 ###  Programs Used:
 
