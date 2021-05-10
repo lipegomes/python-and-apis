@@ -11,13 +11,12 @@ Api (request and response) studies using python for reading public data.
 
 Information about the status code of HTTP verbs:
 
-[Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-[GeeksforGeeks](https://www.geeksforgeeks.org/response-methods-python-requests/)
+- [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/response-methods-python-requests/)
 
 ###  Programs Used:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-
 - [Insomnia](https://insomnia.rest/download)
 
 ### Tool:
