@@ -1,7 +1,7 @@
 import requests
 
 endpoint = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos"
-# Replace DEMO_KEY below with your own key if you generated one.
+# Replace YOUR_KEY below with your own key if you generated one.
 # Create your key in https://api.nasa.gov/
 
 api_key = "YOUR_KEY"
